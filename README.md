@@ -1,5 +1,5 @@
 # LinkedIn-Salary-Prediction
-LinkedIn Salary Prediction : Leveraging machine learning on Kaggle's LinkedIn dataset, the project addresses salary determinants through data analysis, benefiting both employers and job seekers. EDS:6340 INTRODUCTION TO DATA SCIENCE PROJECT
+LinkedIn Salary Prediction : Leveraging machine learning on Kaggle's LinkedIn dataset, the project addresses salary determinants through data analysis,  benefiting both employers and job seekers. EDS:6340 INTRODUCTION TO DATA SCIENCE PROJECT
 
 A REPORT ONPREDICTING SALARY FROM LINKEDIN JOB POSTINGS 2023
 TABLE OF CONTENTS
